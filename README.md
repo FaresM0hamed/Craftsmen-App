@@ -51,9 +51,9 @@ Developing the Craftsmen Connect App involved overcoming several challenges:
 
 
 ## Team 🤵‍♂️
-Fares Mohamed Elshahat Mahmoud
-Amr Mohy Mohamed Yousif
-Ashrakat Samaha Elsayed Gouda
-Gehad Basiouny Elsayed Basiouny
-Asmaa Mohamed Mohamed Elsayed
-Asmaa Mohamed Hamed Ebrahim
+#### Fares Mohamed Elshahat Mahmoud
+#### Amr Mohy Mohamed Yousif
+#### Ashrakat Samaha Elsayed Gouda
+#### Gehad Basiouny Elsayed Basiouny
+#### Asmaa Mohamed Mohamed Elsayed
+#### Asmaa Mohamed Hamed Ebrahim
